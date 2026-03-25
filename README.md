@@ -37,6 +37,6 @@
 
 | Lab | Link |
 | :--- | :--- |
-| Lab 1 | [lab-1/](./lab-1/) |
-| Lab 2 | [lab-2/](./lab-2/) |
-| Lab 3 | [lab-3/](./lab-3/) |
+| Lab 1 | [Docs](./lab1.pdf) |
+| Lab 2 | [Docs](./lab2.pdf) |
+| Lab 3 | [Docs](./lab3.pdf) |
