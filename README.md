@@ -29,3 +29,14 @@
 | Lab 1 | [lab-1/](./lab-1/) |
 | Lab 2 | [lab-2/](./lab-2/) |
 | Lab 3 | [lab-3/](./lab-3/) |
+
+
+---
+
+## Documentations
+
+| Lab | Link |
+| :--- | :--- |
+| Lab 1 | [lab-1/](./lab-1/) |
+| Lab 2 | [lab-2/](./lab-2/) |
+| Lab 3 | [lab-3/](./lab-3/) |
